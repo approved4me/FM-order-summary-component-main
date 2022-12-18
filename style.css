@@ -85,11 +85,13 @@ a:hover {
 main {
   width: 23rem;
   padding: 1rem;
+  
 }
 
 article {
   background-color: #fff;
   border-radius: 1rem;
+  box-shadow: 0 1rem 2rem -1rem var(--neutral_desaturated-blue);
 }
 
 .image {
